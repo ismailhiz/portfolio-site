@@ -17,7 +17,7 @@ Bu portföy sitesi, modern web geliştirme araçları kullanılarak oluşturulmu
 
 - **LinkedIn**: [linkedin.com/in/ismailhız](https://www.linkedin.com/in/ismailhız/)
 - **GitHub**: [github.com/ismailhiz](https://github.com/ismailhiz)
-- **E-posta**: ismailhiz@example.com
+- **E-posta**: ismailhizz@icloud.com
 
  📄 Lisans
 
